@@ -1,10 +1,10 @@
 # git_practice
 
 ### 拉取 Git 檔案至本地
-1. git clone https://github.com/KK-Huang86/git_practice.git (複製一份到本地)
-2. cd git_practice (進入專案內容)
-3. git pull origin main (拉取最新變更)
-4. git status (確認狀態)
+1. `git clone https://github.com/KK-Huang86/git_practice.git` (複製一份到本地)
+2. `cd git_practice` (進入專案內容)
+3. `git pull origin main` (拉取最新變更)
+4. `git status` (確認狀態)
 
 ### Git 指令
 
